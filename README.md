@@ -7,8 +7,8 @@ Siga os passos abaixo para configurar e executar o projeto em sua máquina local
 ### Passo 1: Clone o Repositório
 
 ```bash
-git clone <URL-DO-REPOSITÓRIO>
-cd <NOME-DO-REPOSITÓRIO>
+git clone https://github.com/LukasAlencar/activesManagmentFront.git
+cd activesManagmentFront
 ```
 
 ### Passo 2: Instale as Dependências
