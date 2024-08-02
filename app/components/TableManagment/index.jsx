@@ -130,7 +130,7 @@ const TableManagment = () => {
                     </AlertDescription>
                 </Alert>
             }
-            <div className='w-5/6 overflow-x-hidden max-h-[75%] overflow-y-auto border-2 border-black rounded-lg flex flex-col '>
+            <div className='w-5/6 overflow-x-hidden max-h-[70%] overflow-y-auto border-2 border-black rounded-lg flex flex-col '>
                 <div className='flex justify-around border-b-2 border-black py-5 items-center pr-0 bg-[#FFCDCD]'>
                     <div className='w-[12.5%] text-center border-r-2 border-black overflow-auto'>Hostname</div>
                     <div className='w-[17.5%] text-center border-r-2 border-black overflow-auto'>Tipo de Equipamento</div>

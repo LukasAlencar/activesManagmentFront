@@ -24,7 +24,7 @@ export default function RegisterActives() {
   return (
     <>
       <Navbar register={false} />
-      <div className="flex-1 flex flex-wrap justify-center content-center gap-9 ">
+      <div className="flex-1 flex flex-col items-center justify-center h-full gap-9 mt-[-25px]">
         <div className="w-full text-center">
           <h1 className="text-3xl font-bold text-[#FA226A]">Editar</h1>
         </div>
